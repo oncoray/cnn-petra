@@ -7,7 +7,10 @@ The repository contains jupyter notebooks for
   * End-to-end training and internal validation pipeline using 3D convolutional neural networks
   * Model testing pipleine
   
-Train_valid_CV_3DCNN.ipynb is training notebook with cross-validation settings. Three models can be used 
+Train_valid_CV_3DCNN.ipynb is training notebook with cross-validation settings
+Test_3D_CNN.ipynb is notebook for testing the trained models.
+
+Three models can be used for training 
 
 1. 3D-DenseNet, model available under DenseNet3D.py
 2. 3D-ResNet, model available under ResNet3D.py
