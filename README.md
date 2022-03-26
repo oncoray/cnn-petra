@@ -14,7 +14,7 @@ Three models can be used for training
 
 1. 3D-DenseNet, model available under DenseNet3D.py
 2. 3D-ResNet, model available under ResNet3D.py
-3. 3D-Vgg, model avaialble under Vgg3D.py
+3. 3D-Vgg, model available under Vgg3D.py
 
 Data Augmentation is performed using batchgenerators library, augmentation function is implemented in Aug3D.py
 Other helper functions used for this work are available under util.py
